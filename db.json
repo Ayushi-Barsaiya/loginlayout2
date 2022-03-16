@@ -1,0 +1,68 @@
+{
+    "response": [
+        {
+            "id": 1,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 2,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 3,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 4,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 5,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 6,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 7,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        },
+        {
+            "id": 8,
+            "Name": "Student Name",
+            "Age": 10,
+            "School": "Lead School Karmala",
+            "Class^v": 3,
+            "Status": "Active"
+        }
+    ]
+}
