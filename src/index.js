@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Login from './components/Login';
 import Students from './components/Students';
+import AddStudents from './components/AddStudents';
 
 const routing = (
   <BrowserRouter>
@@ -13,6 +14,8 @@ const routing = (
       <Route exact path="/" element={<App />} />
       <Route path="/login" element={<Login />} />
       <Route path="/students" element={<Students />} />
+      {/* <Route path="/viewStudents" element={<ViewStudents />} /> */}
+      <Route path="/addStudents" element={<AddStudents />} />
     </Routes>
   </BrowserRouter>
 )

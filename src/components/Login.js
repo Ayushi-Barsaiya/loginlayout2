@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-
+import letter from "./Logos/letter.PNG";
 
 function Login() {
     return (
-        <div>
+        <div class="card"><img id="letterLogo" src={letter} alt="" />
             <section id="container">
                 <div><h4>Create your account</h4>
                     <form>

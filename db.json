@@ -5,7 +5,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -13,7 +14,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -21,7 +23,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -29,7 +32,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -37,7 +41,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -45,7 +50,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -53,7 +59,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         },
         {
@@ -61,7 +68,8 @@
             "Name": "Student Name",
             "Age": 10,
             "School": "Lead School Karmala",
-            "Class^v": 3,
+            "Class": 3,
+            "Division":"A",
             "Status": "Active"
         }
     ]

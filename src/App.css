@@ -5,12 +5,15 @@
 
 .App-header {
   text-align: center;
-  }
-
-#container{
-  min-height: 100vh;
   display: flex;
   align-items: center;
+  justify-content: center;
+  }
+.card{
+ min-height: 600px;
+}
+#container{
+  display: flex;
   justify-content: center;
 }
 
@@ -21,6 +24,10 @@
   text-align: center;
   border: solid;
 }
+#letterLogo{
+    margin-left: 42%;
+    margin-top: 7%;
+}
 
 label{
  display: block;
@@ -30,10 +37,69 @@ label{
 
 a{
   font-size: small;
-  display: block;
 }
 
 .App-link {
   color: #61dafb;
 }
 
+.table-content{
+  margin: 25px 25px;
+  
+  display: flex;
+  justify-content: end;
+}
+
+.table-content tr th{
+  background-color: rgb(141, 180, 253);
+  border-collapse: collapse;
+  text-align: center;
+  width: 115px;
+  padding: 6px 7px;
+}
+
+.table-content tbody tr:nth-of-type(even){
+  background-color: rgba(238, 231, 231, 0.89)
+ 
+}
+.table-content tr td{
+ font-size: x-small;
+ text-align:center ;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: center;
+  margin-right:50px;
+}
+.blurb{
+  margin-inline-start: auto;
+}
+
+#sideTable{
+  padding: 10px;
+ align-content: flex-start;
+ border-width: 1px 5px;
+}
+
+#sideTable tr td{
+ border-width: 1px 1px;
+}
+
+.pagination{
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  width:25px;
+}
+.addTable h3{
+  border-bottom: 1px solid rgb(201, 196, 196);
+  padding: 10px 10px;
+}
+.dropdown-toggle::after {
+  margin-left: 30px;
+}
+#saveButton{
+  margin-left:130px;
+}
