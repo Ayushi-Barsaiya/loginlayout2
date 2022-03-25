@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Login from './components/Login';
+import  Account from "./components/Account"
 import Students from './components/Students';
 import AddStudents from './components/AddStudents';
 
@@ -12,10 +12,10 @@ const routing = (
   <BrowserRouter>
     <Routes>
       <Route exact path="/" element={<App />} />
-      <Route path="/login" element={<Login />} />
+      <Route path="/login" element={<Account/>} />
       <Route path="/students" element={<Students />} />
       {/* <Route path="/viewStudents" element={<ViewStudents />} /> */}
-      <Route path="/addStudents" element={<AddStudents />} />
+      <Route path="/students/add" element={<AddStudents />} />
     </Routes>
   </BrowserRouter>
 )
